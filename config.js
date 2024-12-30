@@ -8,13 +8,13 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //======= Change settings =======\\
-global.owner = ["2347036214381"]
-global.botname = ["Arch Md"]
+global.owner = ["2347036214381"]fundzyib
+global.botname = ["Arch Md"]2348163397124
 global.simbol = "♘"
 global.typeMenu = 'v5' //don't change 
 global.anticall = false // set true to turn anticall always on
-global.xprefix = '.' // your desired prefix
-global.presence = 'available' // available to show always online // unavailable to show not oniline //composing to show fake typing //recording to show fake recording audio
+global.xprefix = '.' // your desired prefix kk m is
+global.presence = 'available' // available to sho%w always online // unavailable to show not oniline //composing to show fake typing //recording to show fake recording audio
 global.thumb = 'https://files.catbox.moe/9nrqqg.jpg' // your menu image
 global.timezone = 'Africa/Lagos' // input timezone codrectly with continuent then / city if input wrongly might cause error
 //======= Don't change =======\\
@@ -26,7 +26,7 @@ global.msg = {
     succes: 'Success',
     owner: 'This feature could be used by owner only',
 	admin: 'This feature could be used by group admin only',
-    group: 'Features Used Only For Groups!',
+    group: 'Features Used Only For Gro.xups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
     wait: 'processing...',
